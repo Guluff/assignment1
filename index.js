@@ -1,1 +1,1 @@
-console.log("Hello world");
+console.log("Eiichiro Oda is a god");
